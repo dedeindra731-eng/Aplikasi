@@ -1,0 +1,6 @@
+{
+  "name": "Leuwijaya Chat",
+  "description": "Aplikasi komunikasi real-time modern dengan pesan teks, panggilan suara/video WebRTC, dan penambahan teman QR Code dengan Google ML Kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
